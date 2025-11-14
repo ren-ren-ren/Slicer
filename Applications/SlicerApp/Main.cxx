@@ -33,6 +33,7 @@ namespace
 //----------------------------------------------------------------------------
 int SlicerAppMain(int argc, char* argv[])
 {
+  ////////xxxxx
   typedef qSlicerAppMainWindow SlicerMainWindowType;
   typedef qSlicerStyle SlicerAppStyle;
 
